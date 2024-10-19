@@ -1,2 +1,2 @@
-# tokyo-olympic-azure-data
-Tokyo Olympic data engineering using Azure data factory
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
